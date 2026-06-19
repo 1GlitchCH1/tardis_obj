@@ -1,0 +1,94 @@
+# Blender MTL File: 'alternive texture.blend'
+# Material Count: 8
+
+newmtl Black
+Ns 70.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Exterior_Material.jpg
+
+newmtl Material_Interior_2014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Interior_Smith.jpg
+
+newmtl Material_Lamp
+Ns 96.078431
+Ka 0.271028 0.271028 0.271028
+Kd 0.640000 0.640000 0.640000
+Ks 0.317757 0.317757 0.317757
+Ke 0.328000 0.328000 0.328000
+Ni 1.000000
+d 0.742991
+illum 3
+map_Kd Exterior_Material.jpg
+
+newmtl Material_Main
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.008691 0.138696 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Exterior_Material.jpg
+map_Bump Exterior_Material_Spec.jpg
+
+newmtl Material_Main_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.008691 0.138696 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump Exterior_Material_Spec.jpg
+map_Kd Exterior_Material.jpg
+
+newmtl Material_Police_Box
+Ns 96.078431
+Ka 0.043956 0.043956 0.043956
+Kd 0.800000 0.800000 0.800000
+Ks 0.120380 0.120380 0.120380
+Ke 0.130000 0.130000 0.130000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Police_Public_Call_Box.jpg
+
+newmtl Material_Window
+Ns 96.078431
+Ka 0.389578 0.389578 0.389578
+Kd 0.598721 0.598721 0.598721
+Ks 0.241935 0.241935 0.241935
+Ke 0.112260 0.112260 0.112260
+Ni 1.000000
+d 1.000000
+illum 5
+map_Kd Exterior_Material.jpg
+map_Bump Exterior_Material_Spec.jpg
+
+newmtl Material_Window_Frame
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Exterior_Material.jpg
+map_Bump Exterior_Material_Spec.jpg
